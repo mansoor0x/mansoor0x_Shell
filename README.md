@@ -1,4 +1,4 @@
-# 🛡️ mansoor0x Advanced File Manager & Web Shell v3.0
+#  mansoor0x Advanced File Manager & Web Shell v3.0
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-3.0-ff79c6?style=for-the-badge" alt="Version">
